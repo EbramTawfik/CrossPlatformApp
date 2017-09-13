@@ -1,0 +1,15 @@
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\CrossPlatformApp.dll
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\CrossPlatformApp.pdb
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\Xamarin.Forms.Core.dll
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\Xamarin.Forms.Platform.dll
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\Xamarin.Forms.Xaml.dll
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\Xamarin.Forms.Core.pdb
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\Xamarin.Forms.Core.xml
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\Xamarin.Forms.Platform.pdb
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\bin\Debug\Xamarin.Forms.Xaml.xml
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatformApp.csproj.CoreCompileInputs.cache
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatformApp.MainPage.xaml.g.cs
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatformApp.App.xaml.g.cs
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatformApp.dll
+I:\Git\CrossPlatform\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatformApp.pdb
