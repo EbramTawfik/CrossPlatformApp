@@ -2,4 +2,47 @@
 <ContentPage
     x:Class="CrossPlatformApp.Views.MoviesView"
     xmlns="http://xamarin.com/schemas/2014/forms"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" />
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+
+    <ListView
+        x:Name="MoviesList"
+        HasUnevenRows="True"
+        IsPullToRefreshEnabled="True"
+        IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+        ItemsSource="{Binding MoviesList}"
+        RefreshCommand="{Binding GetMoviesCommand}"
+        SeparatorVisibility="None">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout
+                        Margin="10"
+                        Padding="10"
+                        BackgroundColor="White">
+                        <StackLayout>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image
+                                    HeightRequest="40"
+                                    Source="{Binding poster_path}"
+                                    WidthRequest="80" />
+                                <StackLayout
+                                    Grid.Column="1"
+                                    HorizontalOptions="EndAndExpand"
+                                    VerticalOptions="EndAndExpand">
+                                    <Label Text="{Binding title}" />
+                                    <Label Text="{Binding vote_average}" />
+                                    <Label Text="{Binding release_date}" />
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using CrossPlatformApp.Views;
 
 using Xamarin.Forms;
 
@@ -13,7 +10,7 @@ namespace CrossPlatformApp
         {
             InitializeComponent();
 
-            MainPage = new CrossPlatformApp.MainPage();
+            MainPage = new MoviesView();
         }
 
         protected override void OnStart()

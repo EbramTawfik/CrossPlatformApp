@@ -43,6 +43,7 @@ namespace CrossPlatformApp.Infrastructure.Model
         public double popularity { get; set; }
 
         [JsonProperty("poster_path")]
+        [JsonConverter(typeof(PosterPathJsonConverter))]
         public string poster_path { get; set; }
 
         [JsonProperty("original_language")]

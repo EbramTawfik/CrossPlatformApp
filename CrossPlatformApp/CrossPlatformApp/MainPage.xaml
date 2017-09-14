@@ -9,5 +9,5 @@
         HorizontalOptions="Center"
         Text="Welcome to Xamarin Forms!"
         VerticalOptions="Center" />
-    <Button Command="{Binding GetMoviesCommand}"></Button>
+    <Button Command="{Binding GetMoviesCommand}" />
 </ContentPage>

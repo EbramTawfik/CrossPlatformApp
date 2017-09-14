@@ -31,13 +31,13 @@
     <AppXManifest Include="I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-13T06:50:19.339</Modified>
+      <Modified>2017-09-14T04:11:11.093</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\bin\x86\Debug\CrossPlatformApp.UWP.exe">
       <PackagePath>entrypoint\CrossPlatformApp.UWP.exe</PackagePath>
-      <Modified>2017-09-13T06:50:15.409</Modified>
+      <Modified>2017-09-14T04:11:06.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ebram Samy\.nuget\packages\CommonServiceLocator\1.3.0\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
@@ -553,11 +553,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp\bin\Debug\CrossPlatformApp.dll">
       <PackagePath>CrossPlatformApp.dll</PackagePath>
-      <Modified>2017-09-13T06:50:11.652</Modified>
+      <Modified>2017-09-14T04:11:02.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.Infrastructure\bin\Debug\CrossPlatformApp.Infrastructure.dll">
       <PackagePath>CrossPlatformApp.Infrastructure.dll</PackagePath>
-      <Modified>2017-09-13T06:50:10.610</Modified>
+      <Modified>2017-09-14T04:11:01.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -732,11 +732,11 @@
     <AppxPackagedFile Include="I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-13T06:50:18.060</Modified>
+      <Modified>2017-09-14T04:11:09.564</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\bin\x86\Debug\Core\CrossPlatformApp.UWP.exe">
       <PackagePath>CrossPlatformApp.UWP.exe</PackagePath>
-      <Modified>2017-09-13T06:50:19.331</Modified>
+      <Modified>2017-09-14T04:11:11.081</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

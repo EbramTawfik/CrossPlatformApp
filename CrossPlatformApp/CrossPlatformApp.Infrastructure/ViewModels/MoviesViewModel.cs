@@ -76,7 +76,7 @@ namespace CrossPlatformApp.Infrastructure.ViewModels
                 MoviesList.Clear();
                 foreach (var movie in movies)
                 {
-                    _moviesList.Add(movie);
+                    MoviesList.Add(movie);
                 }
 
             }
