@@ -1,0 +1,44 @@
+ /debug:pdbonly
+ /nowarn:0436;0618;1668;1685;1701;1702
+ /debug+
+ /nostdlib+
+ /optimize+
+ /out:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop.dll"
+ /pdb:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop.pdb"
+ /platform:x86
+ /warnaserror+
+ /unsafe
+ /nologo
+ /target:library
+ /define:MCG_PRE_BUILD
+ /r:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Private\System.Private.CoreLib.dll"
+ /r:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Private\System.Private.CoreLib.InteropServices.dll"
+ /r:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Private\System.Private.Interop.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Private.Uri.dll"
+ /r:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Private\System.Private.CompilerServices.ICastable.dll"
+ /r:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Private\System.Private.Reflection.dll"
+ /r:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Private\System.Private.DispatchProxy.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Reflection.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Runtime.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Threading.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll"
+ /r:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Private\System.Private.CoreLib.Augments.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.Collections.dll"
+ /r:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\System.ObjectModel.dll"
+ /r:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.7.0\tools\SharedLibrary\ret\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+ "I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop\Adapters.g.cs"
+ "I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop\AssemblyInfo.g.cs"
+ "I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop\Data.g.cs"
+ "I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop\Helpers.g.cs"
+ "I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop\ImplTypes.g.cs"
+ "I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop\PInvoke.g.cs"
+ "I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop\SafeTypes.g.cs"
+ "I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\CrossPlatformApp.UWP.McgInterop\SharedStubs.g.cs"

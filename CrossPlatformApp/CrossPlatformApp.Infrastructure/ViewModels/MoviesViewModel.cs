@@ -34,6 +34,20 @@ namespace CrossPlatformApp.Infrastructure.ViewModels
             }
         }
 
+        private Movie _selectedMovie;
+
+        public Movie SelectedMovie
+        {
+            get { return _selectedMovie; }
+            set
+            {
+                _selectedMovie = value;
+                RaisePropertyChanged(() => SelectedMovie);
+            }
+        }
+
+
+
         private ICommand _getMoviesCommand;
 
         public ICommand GetMoviesCommand

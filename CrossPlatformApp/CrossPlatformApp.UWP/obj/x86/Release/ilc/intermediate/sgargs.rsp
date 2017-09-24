@@ -1,0 +1,12 @@
+/out:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\\"
+/ref:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\TransformedSRWR"
+/ref:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in"
+/ref:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\\"
+/ref:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Private\\"
+/ref:"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\csc"
+"@I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt"

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="CrossPlatformApp.Views.MovieDetailsView"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <ScrollView>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.15*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Image
+                Grid.Row="0"
+                HeightRequest="150"
+                Source="{Binding SelectedMovie.poster_path}"
+                WidthRequest="500" />
+
+            <StackLayout Grid.Row="1">
+                <Label Text="{Binding SelectedMovie.title}"/>
+                <Label Text="{Binding SelectedMovie.release_date}"/>
+                <Label Text="{Binding SelectedMovie.overview}" LineBreakMode="WordWrap"/>
+            </StackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>

@@ -12,6 +12,7 @@
         IsRefreshing="{Binding IsBusy, Mode=OneWay}"
         ItemsSource="{Binding MoviesList}"
         RefreshCommand="{Binding GetMoviesCommand}"
+        SelectedItem="{Binding SelectedMovie}"
         SeparatorVisibility="None">
         <ListView.ItemTemplate>
             <DataTemplate>

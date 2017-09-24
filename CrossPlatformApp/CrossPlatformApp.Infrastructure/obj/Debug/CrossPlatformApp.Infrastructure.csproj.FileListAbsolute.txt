@@ -31,3 +31,4 @@ I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.Infrastructure\bin\De
 I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.Infrastructure\obj\Debug\CrossPlatformApp.Infrastructure.csproj.CoreCompileInputs.cache
 I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.Infrastructure\obj\Debug\CrossPlatformApp.Infrastructure.dll
 I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.Infrastructure\obj\Debug\CrossPlatformApp.Infrastructure.pdb
+I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.Infrastructure\obj\Debug\CrossPlatformApp.Infrastructure.csprojResolveAssemblyReference.cache

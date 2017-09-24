@@ -46,3 +46,4 @@ I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatfo
 I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatformApp.Views.MoviesView.xaml.g.cs
 I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatformApp.dll
 I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatformApp.pdb
+I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp\obj\Debug\CrossPlatformApp.Views.MovieDetailsView.xaml.g.cs

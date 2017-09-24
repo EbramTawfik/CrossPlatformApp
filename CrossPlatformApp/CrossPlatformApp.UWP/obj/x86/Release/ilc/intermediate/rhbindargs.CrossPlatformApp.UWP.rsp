@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\MDIL\CrossPlatformApp.UWP.mdilexe"
+"/i:I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\Native\CrossPlatformApp.UWP.exe"
+"/pdbAltPath:I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\bin\x86\Release\ilc"
+"/res:I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\Ebram Samy\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.7.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

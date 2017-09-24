@@ -1,0 +1,4 @@
+I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.Infrastructure\CrossPlatformApp.Infrastructure.csproj;neutral
+I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.Infrastructure\CrossPlatformApp.Infrastructure.csproj;neutral
+I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp.UWP\CrossPlatformApp.UWP.csproj;x86
+I:\Git\CrossPlatform\Git\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp.Views.csproj;neutral
